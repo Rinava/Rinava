@@ -1,5 +1,7 @@
 ### Hello, I'm Lara Mateo,
+
 I'm currently working at ✨Mercado Libre✨ and I have 3 cats 🐈🐈🐈
+
 Visit my [Personal Web](https://www.laramateo.com/) 
 
 
