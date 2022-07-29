@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, I'm Lara Mateo,
+I'm currently working at ✨Mercado Libre✨ and I have 3 cats 🐈🐈🐈
+Visit my [Personal Web](https://www.laramateo.com/) 
+
+
+![](https://komarev.com/ghpvc/?username=Rinava)
+
 
 <!--
 **Rinava/Rinava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
