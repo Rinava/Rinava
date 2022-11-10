@@ -40,6 +40,7 @@
 ###
 
 <br clear="both">
+  Ñom ñom
 <img src="https://github.com/Rinava/Rinava/blob/output/snake.svg" alt="Snake animation" />
 
 ###
