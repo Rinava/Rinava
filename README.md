@@ -40,7 +40,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rinava/rinava/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Rinava/Rinava/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
