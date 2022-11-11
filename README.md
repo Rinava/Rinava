@@ -8,10 +8,11 @@
 </div>
 
 ###
+
 <div align="center">
 <img align="right" height="130" src="https://user-images.githubusercontent.com/49590400/201185653-de330f47-9ace-47ca-b4b8-e582e80fd54c.png"  />
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -36,7 +37,7 @@
 </div>
 </div>
 
-
+#### For more info take a look of [laramateo.com](https://www.laramateo.com/)!
 <br clear="both">
 
 <div align="center">
@@ -47,11 +48,8 @@
 
 ###
 
-
-For more info take a look of [laramateo.com](https://www.laramateo.com/)!
-
-
-<div align="left">
+<br>
+<div align="right">
   You are the visitor number 
   <br>
   <img src="https://profile-counter.glitch.me/rinava/count.svg?"  />
