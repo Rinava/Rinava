@@ -52,7 +52,7 @@ For more info take a look of [laramateo.com](https://www.laramateo.com/)!
 
 
 <div align="left">
-  Profile views
+  You are the visitor number 
   <br>
   <img src="https://profile-counter.glitch.me/rinava/count.svg?"  />
 </div>
