@@ -1,8 +1,5 @@
-# <span style="color:IndianRed">W</span><span style="color:LightSalmon">e</span><span style="color:Khaki" >l</span><span style="color:PaleGreen">c</span><span style="color:LightBlue">o</span><span style="color:Thistle">m</span ><span style="color:IndianRed">e</span>  <span style="color:LightSalmon">T</span><span style="color:Khaki" >o</span> <span style="color:PaleGreen">M</span><span style="color:LightBlue">y</span> <span style="color:Thistle">G</span ><span style="color:IndianRed">i</span><span style="color:LightSalmon">t</span><span style="color:Khaki" >H</span><span style="color:PaleGreen">u</span><span style="color:LightBlue">b</span>
-
- #### <span style="color:Pink">My name is <span style="color:PaleVioletRed"> Lara Mateo</span> and I'm a <span style="color:PaleVioletRed">Frontend Developer </span> from <span style="color:PaleTurquoise">Ar</span><span style="color:Ivory">ge<span style="color:Gold">n</span></span><span style="color:Ivory">ti</span><span style="color:PaleTurquoise">na</span></span></span>
-
-###
+ ![image](https://user-images.githubusercontent.com/49590400/201425919-3a6322a3-9545-4aae-9594-8ed47958e0a8.png)
+ ![image](https://user-images.githubusercontent.com/49590400/201425976-c459ef71-7c57-448d-b7b0-d940983fde92.png)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=rinava" height="150" alt="stats graph"  />
@@ -56,11 +53,5 @@ For more info take a look of [laramateo.com](https://www.laramateo.com/)!
   <br>
   <img src="https://profile-counter.glitch.me/rinava/count.svg?"  />
 </div>
-
-
-
-
-
-
 
 
