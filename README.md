@@ -47,8 +47,10 @@
 
 
 For more info take a look of [laramateo.com](https://www.laramateo.com/)!
-
-![](https://komarev.com/ghpvc/?username=Rinava)
+Profile views
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rinava/count.svg?"  />
+</div>
 
 
 
