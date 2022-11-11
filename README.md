@@ -37,11 +37,13 @@
 </div>
 
 
-###
-
 <br clear="both">
-  Ñom ñom
+
+<div align="center">
+ <em>Ñom ñom ñom</em>
+  <br>
 <img src="https://github.com/Rinava/Rinava/blob/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
