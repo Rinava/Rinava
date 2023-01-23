@@ -37,7 +37,7 @@
 </div>
 </div>
 
-#### For more info take a look of [laramateo.com](https://www.laramateo.com/)!
+#### For more info take a look at [laramateo.com](https://www.laramateo.com/)!
 <br clear="both">
 
 <div align="center">
