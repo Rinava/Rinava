@@ -4,22 +4,6 @@
 
 ###
 
-<div align="center">
-<img align="right" height="130" src="https://user-images.githubusercontent.com/49590400/201185653-de330f47-9ace-47ca-b4b8-e582e80fd54c.png"  />
-
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-</div>
-
-
-###
-
 <div align="left">
   
   [<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />](mailto:laramateoco@gmail.com)
@@ -27,7 +11,7 @@
 </div>
 </div>
 
-#### For more info take a look at [laramateo.com](https://www.laramateo.com/)!
+#### Visit [laramateo.com](https://www.laramateo.com/)!
 <br clear="both">
 
 <div align="center">
