@@ -1,17 +1,11 @@
  
-# Lara Here!
+# Lara Here! Senior Software Engineer
 
 <div align="center">
   
 <a href="https://laramateo.com">
   <img src="https://github.com/user-attachments/assets/8807f5af-fd70-44d8-abbc-125a30abfa3a" alt="Lara Mateo - Portfolio" width="600" />
 </a>
-
-**Senior Software Engineer**
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=flat-square&logoColor=white)](https://www.laramateo.com/)
-[![Email](https://img.shields.io/badge/📧_Email-000?style=flat-square&logoColor=white)](mailto:laramateoco@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-000?style=flat-square&logoColor=white)](https://www.linkedin.com/in/lara-mateo/)
 
 </div>
 
