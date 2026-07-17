@@ -34,7 +34,7 @@ Cat enthusiast and dog fan, building from Buenos Aires and sharing tools (mostly
 
 <!-- Add Kenda's link when the site is live, and confirm the Umbryn repo URL below. -->
 
-- **Kenda:** AI spend reconciliation, my full-time focus. It reads the LLM traces you already have, reconciles them against the invoices OpenAI, Anthropic, and Google actually sent, and attributes every dollar to a team and project. Client-side instrumentation guesses at cost; invoices don't.
+- **[Kenda](https://www.kenda.app/):** AI spend reconciliation, my full-time focus. It reads the LLM traces you already have, reconciles them against the invoices OpenAI, Anthropic, and Google actually sent, and attributes every dollar to a team and project. Client-side instrumentation guesses at cost; invoices don't.
 - **[Umbryn](https://github.com/Rinava/umbryn):** an open-source MCP server that redacts PHI and PII at the tool-call boundary, before anything reaches a model provider. Wraps Microsoft Presidio and fails closed: low confidence means blocked, not passed through.
 - **[Marksight](https://marksight.laramateo.com)** ([repo](https://github.com/Rinava/MarkSight)): started as a Markdown editor, now it turns any Markdown document into an installable Claude Agent Skill in one click, right in the browser, nothing leaves your device. 11 contributors, 100+ users from Argentina to Japan, never marketed beyond a few LinkedIn posts.
 - **[Pagewise](https://laramateo.com):** a Claude-powered reader that summarizes any web page at three depths (brief, detailed, or ELI5), with grounded follow-up Q&A and shareable, read-only links. Free, no signup.
